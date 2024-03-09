@@ -1,0 +1,14 @@
+.principal
+{
+    background-color: black;
+    display: flex;
+    flex-direction: row; /* es para hacer algo flexible*/
+    flex-wrap: wrap;
+}
+.caja
+{
+    background-color:violet ;
+    width: 405px;
+    height: 650px;
+    margin: 5px;
+}
